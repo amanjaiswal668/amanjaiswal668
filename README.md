@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📝 I regularly write articles on [yet to start](yet to start)
-
-- 💬 Ask me about **Swift, Java, Python, Node.js**
+- 💬 Ask me about **Java, Springboot, Python, Node.js, MySQL**
 
 - 📫 How to reach me **amanjaiswal159.aj@icloud.com**
 
